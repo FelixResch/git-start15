@@ -1,0 +1,4 @@
+!projectInfo
+name: Test Git
+mainFile: document.md
+source: https://github.com/FelixResch/git-start15.git
