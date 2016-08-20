@@ -59,3 +59,4 @@ is maintained by the W3C.
 This app is maintained by:
 
 * Felix Resch (felix.resch@femo.io)
+And some others who have to put their credentials here
