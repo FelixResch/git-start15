@@ -6,6 +6,8 @@ lang:
 tags:
   - Markdown
   - Editor
+secret: true
+private: true
 ---
 
 # About this app
@@ -62,4 +64,4 @@ This app is maintained by:
 
 ---
 
-And some others who still have to put their credentials here.
+And some others who still have to put their credentials here. All changes are commited and then pushed to a git repository.
