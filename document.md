@@ -30,13 +30,7 @@ with the original markdown but also extensible with extensions like:
 
 # Random Remarks
 
-There will be so many random remarks in this section just to test, wether commits and pushing work correctly.
-
-And yet another remark.
-
-And yet again a remark.
-
-Yet another random remark, just to test some stupid features...
+Alright got, rid of all them stupid remarks.
 
 # Commonmark
 
