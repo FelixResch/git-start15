@@ -32,6 +32,8 @@ with the original markdown but also extensible with extensions like:
 
 Alright got, rid of all them stupid remarks.
 
+And now for the design...
+
 # Commonmark
 
 For a full documentation of the commonmark specification see: http://spec.commonmark.org/0.26/ (As you can see, autolink is quite neat)
